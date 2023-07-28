@@ -1,0 +1,10 @@
+1. function is a block of code that execute when we call.
+2. we use loop to perform tasks that repets regularly on a condition . eg. sum of 1 to 10.
+3. variable : which stores a value. 
+4. data types : null, undefined, string, symbol, number, biglnt, boolean and object.
+5. branching means where there are many code and we have to execute one at a time.
+6. AND operator try to finds first falsy value.
+7. eg of urinary operator: type of operator and NOT operator
+9. getelemenbyclassname returns all childs element which have same class name.
+10. when there are different properties we use object.
+
